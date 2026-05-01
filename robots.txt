@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-xvkquq.1bike.com/sitemap.xml
